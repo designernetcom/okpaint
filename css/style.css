@@ -1,0 +1,17 @@
+
+
+.clients img
+{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 10px;
+}
+.title h1{
+    color: #312f92;
+}
+.clients{
+    padding-bottom: 10px;
+}
+.ul-class{
+    padding-left: 0px !important;
+  
+}
